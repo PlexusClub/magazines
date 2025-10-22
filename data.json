@@ -1,0 +1,31 @@
+{
+  "magazines": [
+    {
+      "title": "AIML Magazine Vol. 3",
+      "thumb": "./cover/coming-soon.png",
+      "desc": "Volume 3 Issue 1 Summer Soon",
+      "thumbname": "AIML Magazine - Volume 3"
+    },
+    {
+      "title": "Plexus Magazine 2025",
+      "thumb": "./cover/plexus-magazine.png",
+      "desc": "Click to read Plexus Magazine: 2025 Edition Launch",
+      "thumbname": "Plexus Magazine 2025",
+      "source": "./pdf/Plexus AIML MRCE Magazine 2025.pdf"
+    },
+    {
+      "title": "AIML Magazine Vol. 2",
+      "thumb": "./cover/V2.png",
+      "desc": "Click to read Volume 2 Issue 1",
+      "thumbname": "AIML Magazine - Volume 2",
+      "source": "./pdf/MRCE AIML Magazine Volume 2 Issue 1.pdf"
+    },
+    {
+      "title": "AIML Magazine Vol. 1",
+      "thumb": "./cover/V1.png",
+      "desc": "Click to read Volume 1 Issue 1",
+      "thumbname": "AIML Magazine - Volume 1",
+      "source": "./pdf/MRCE AIML Magazine Volume 1.pdf"
+    }
+  ]
+}
