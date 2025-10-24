@@ -1,10 +1,11 @@
 {
   "magazines": [
     {
-      "title": "AIML Magazine Vol. 3",
-      "thumb": "./cover/coming-soon.png",
-      "desc": "Volume 3 Issue 1 Summer Soon",
-      "thumbname": "AIML Magazine - Volume 3"
+      "title": "AIML Magazine 2025 Vol. 1",
+      "thumb": "./cover/V3.png",
+      "desc": "Click to read 2025 Volume 1 Issue 1",
+      "thumbname": "AIML Magazine 2025 - Volume 1",
+      "source": "./pdf/MRCE AIML Magazine 2025 Volume 1 Issue 1.pdf"
     },
     {
       "title": "Plexus Magazine 2025",
